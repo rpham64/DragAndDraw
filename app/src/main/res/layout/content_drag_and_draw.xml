@@ -11,7 +11,7 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     app:layout_behavior="@string/appbar_scrolling_view_behavior"
     tools:context="com.bignerdranch.android.draganddraw.DragAndDrawActivity"
-    tools:showIn="@layout/activity_drag_and_draw">
+    tools:showIn="@layout/fragment_drag_and_draw">
 
     <TextView
         android:layout_width="wrap_content"
